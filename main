@@ -1,4 +1,5 @@
 # elektra
+print('enter your input here')
 a = input()
 
 print('hello world', a)
