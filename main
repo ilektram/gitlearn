@@ -7,5 +7,6 @@ if ' ' in a:
 else:
     print('hello world', a)
 
+print('Bye Bye')
 
 exit(0)
