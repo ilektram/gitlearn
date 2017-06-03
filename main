@@ -2,7 +2,10 @@
 print('enter your input here')
 a = input()
 
-print('hello world', a)
+if ' ' in a:
+    print('no no no')
+else:
+    print('hello world', a)
 
 
 exit(0)
